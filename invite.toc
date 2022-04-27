@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Invite yo
+## Notes: My first AddOn
+invite.lua
+invite.xml
